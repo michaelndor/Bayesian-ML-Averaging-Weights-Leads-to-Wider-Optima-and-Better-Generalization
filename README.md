@@ -12,3 +12,10 @@ We have reimplemented the SWA algorithm in a controlled setting, allowing for a 
 
 
 
+## REFERENCES
+
+1. Guo, L., Jin, S. (2023). "Stochastic Weight Averaging Revisited." Applied Sciences. Ed. Sangtae Ahn.
+
+2. Keskar, N.S., Mudigere, D., Nocedal, J., Smelyanskiy, M., Tang, P.T.P. "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima.".
+
+3. Wilson, A.G., Izmailov, P., Podoprikhin, D., Garipov, T., Vetrov, D. "Averaging Weights Leads to Wider Optima and Better Generalization." 
